@@ -8,8 +8,8 @@
 <a href="https://dswithbhautik.tech" target="_blank"><img align="left" alt="Portfolio" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://www.linkedin.com/in/bhautik-lukhi/" target="_blank"><img align="left" alt="Bhautik Lukhi | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="https://www.instagram.com/bhautik_lukhi/" target="_blank"><img align="left" alt="Bhautik Lukhi | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
-<a href="https://twitter.com/BhautikLukhi" target="_blank"><img align="left" alt="Bhautik Lukhi | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
-<a href="https://medium.com/@bhautiklukhi" target="_blank"><img align="left" alt="Bhautik Lukhi | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /></a>
+<a href="https://twitter.com/BhautikLukhi13" target="_blank"><img align="left" alt="Bhautik Lukhi | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
+<a href="https://medium.com/@bhautiklukhi01" target="_blank"><img align="left" alt="Bhautik Lukhi | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /></a>
 
 <br/>
 <br/>
