@@ -1,4 +1,4 @@
-<img src="https://github.com/BhautikLukhi/BhautikLukhi/blob/main/banner.png">
+<img src="https://github.com/BhautikLukhi/repo/blob/main/banner.png">
 
 <br/>
 
