@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 About Me  
-👋 Hi there! I'm **Bhautik Lukhi**, a **Master’s student in Data Science** with a passion for **Artificial Intelligence, Machine Learning, Deep Learning, and Data Analysis**. I thrive on uncovering insights from data and building intelligent systems that make a real-world impact.  
+👋 Hi there! I'm **Bhautik**, a **Master’s student in Data Science** with a passion for **Artificial Intelligence, Machine Learning, Deep Learning, and Data Analysis**. I thrive on uncovering insights from data and building intelligent systems that make a real-world impact.  
 
 🎯 **What I Do:**  
 - Specializing in **Machine Learning & Deep Learning**, with hands-on experience in **TensorFlow, PyTorch, OpenCV, NumPy, Pandas, and Scikit-Learn**.  
