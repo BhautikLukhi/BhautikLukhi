@@ -2,7 +2,8 @@
 
 <br/>
 
-## Hello, I'm <a href="https://dswithbhautik.tech" target="_blank">Bhautik Lukhi</a>! 
+## Hello, I'm <a href="https://dswithbhautik.tech" target="_blank">Bhautik Lukhi👋 </a>
+
 
 <a href="https://dswithbhautik.tech" target="_blank"><img align="left" alt="Portfolio" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://www.linkedin.com/in/bhautik-lukhi/" target="_blank"><img align="left" alt="Bhautik Lukhi | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
