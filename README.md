@@ -22,9 +22,9 @@
 
 🎯 **What I Do:**  
 - Specializing in **Machine Learning & Deep Learning**, with hands-on experience in **TensorFlow, PyTorch, OpenCV, NumPy, Pandas, and Scikit-Learn**.  
-- Working with **SQL & R** for data analytics and efficient querying.  
+- Working with **Python, R and SQL** for data analytics and efficient querying.  
 - Building **scalable applications** using **JavaScript, React, Next.js, and Streamlit**.  
-- Exploring AI applications in **Computer Vision, NLP, and Predictive Analytics**.  
+- Exploring AI applications in **Computer Vision, LLMs, NLP, and Predictive Analytics**.  
 
 🌌 **Beyond Tech:**  
 - **Stargazing enthusiast**—fascinated by the cosmos and the mysteries of space.  
