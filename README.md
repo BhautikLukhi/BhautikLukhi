@@ -35,13 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=BhautikLukhi&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=BhautikLukhi&theme=react&hide_border=false)  
-
----
-
 ## 🛠️ Technologies & Tools  
 
 ### Programming Languages  
@@ -69,7 +62,5 @@
 
 <br/>
 <br/>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=BhautikLukhi&icon=0&color=3)](https://visitcount.itsvg.in)
