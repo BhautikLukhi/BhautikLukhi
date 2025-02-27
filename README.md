@@ -51,6 +51,11 @@
 <a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="Pandas" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img align="left" alt="Scikit-Learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img align="left" alt="TensorFlow" width="30px" src="https://www.tensorflow.org/images/tf_logo_social.png"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img align="left" alt="PyTorch" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/> </a>
+<a href="https://matplotlib.org/" target="_blank"> <img align="left" alt="Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank"> <img align="left" alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/> </a>
+<a href="https://jupyter.org/" target="_blank"> <img align="left" alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/> </a>
+<a href="https://www.scipy.org/" target="_blank"> <img align="left" alt="SciPy" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"/> </a>
 
 <br/>
 <br/>
@@ -62,5 +67,6 @@
 
 <br/>
 <br/>
+<br/>
 
-[![](https://visitcount.itsvg.in/api?id=BhautikLukhi&icon=0&color=3)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{BhautikLukhi}/count.svg)
